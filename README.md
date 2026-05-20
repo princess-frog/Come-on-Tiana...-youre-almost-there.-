@@ -2,15 +2,15 @@
 
   <br>
   
-  ### ✦ Come on Tiana, you're almost there. -- /Dr Facilier/
+  <### style="color: #dfb76c;">✦ Come on Tiana, you're almost there...</h3>
   
   <br>
   
-  <img src="https://github.com/princess-frog/Come-on-Tiana...-youre-almost-there.-/blob/main/Untitled_design__1_-removebg-preview.png?raw=true" alt="Tiana Background" width="100%">
+  <img src="Untitled_design__1_-removebg-preview.png" alt="Tiana Background" width="100%">
 
   <br>
   
-  — · —
+  <span style="color: #dfb76c;">— · —</span>
   
   <br>
 
@@ -20,7 +20,7 @@
 
   if you want to commission or do an art trade add me on discord
   
-  `@therealtuesdayweld`
+  <span style="color: #dfb76c;">`@therealtuesdayweld`</span>
 
   <br>
 
