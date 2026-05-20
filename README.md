@@ -2,7 +2,7 @@
 
   <br>
   
-  <### style="color: #dfb76c;">✦ Come on Tiana, you're almost there...</h3>
+  <p style="color: #dfb76c;"><b>✦ Come on Tiana, you're almost there ✦</b></p>
   
   <br>
   
@@ -10,17 +10,17 @@
 
   <br>
   
-  <span style="color: #dfb76c;">— · —</span>
+  <p style="color: #dfb76c;">— · —</p>
   
   <br>
 
-  #### nonbinary  ·  artist + animator  ·  team smeat director
+  <p><b>nonbinary  ·  artist + animator  ·  team smeat director</b></p>
 
   <br>
 
-  if you want to commission or do an art trade add me on discord
+  <p>if you want to commission or do an art trade add me on discord</p>
   
-  <span style="color: #dfb76c;">`@therealtuesdayweld`</span>
+  <p style="color: #dfb76c;"><code>@therealtuesdayweld</code></p>
 
   <br>
 
