@@ -2,7 +2,7 @@
 
   <br>
   
-  ### ✦ Come on Tiana, you're almost there ✦
+  ### ✦ Come on Tiana, you're almost there. -- /Dr Facilier/
   
   <br>
   
